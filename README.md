@@ -1,2 +1,3 @@
-# ML-Rec.-de-Padr-es
-Projetos de machine learning, reconhecimento de padrões, IA,  deep learning...
+# Projetos de Data Science, Inteligência Artificial, Machine Learning, Reconhecimento de Padrões
+
+Projetos de diversas origens, desde pessoais, de cursos e disciplinas da Faculdade.
